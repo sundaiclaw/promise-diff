@@ -1,0 +1,9 @@
+- [ ] 1. Create the web app shell and project structure
+- [ ] 1.1 Add a two-pane input UI for promised text and shipped text
+- [ ] 1.2 Add result cards and markdown rendering for the generated update
+- [ ] 2. Implement the backend analysis endpoint using OpenRouter
+- [ ] 2.1 Define the structured JSON response contract and normalization logic
+- [ ] 2.2 Validate inputs and return useful error states
+- [ ] 3. Deploy the app to Cloud Run with env-based model config
+- [ ] 3.1 Verify the live AI path works end-to-end
+- [ ] 4. Fill and publish the Sundai project with final links and thumbnail
