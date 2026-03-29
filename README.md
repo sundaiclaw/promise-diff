@@ -38,7 +38,7 @@ Promise Diff compares what you promised with what you actually shipped, then dra
 5. Set the env vars in `.env`:
    ```bash
    OPENROUTER_BASE_URL=https://openrouter.ai/api/v1
-   OPENROUTER_MODEL=deepseek/deepseek-chat-v3-0324:free
+   OPENROUTER_MODEL=moonshotai/kimi-k2:free
    OPENROUTER_API_KEY=your_key_here
    PORT=8787
    ```
